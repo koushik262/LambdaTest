@@ -1,0 +1,5 @@
+2022-01-31 09:00:34,739  INFO [main] ReadPropertyFile:59 - Navigated to url successfully
+2022-01-31 09:00:46,676  INFO [main] ReadPropertyFile:63 - clicked on simple input successufully
+2022-01-31 09:00:47,036  INFO [main] ReadPropertyFile:65 - Validated successfully
+2022-01-31 09:00:50,790  INFO [main] ReadPropertyFile:70 - sent messege into input box
+2022-01-31 09:00:55,234  INFO [main] ReadPropertyFile:74 - Validated successfully

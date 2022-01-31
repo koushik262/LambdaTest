@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-31T11:09:46 IST" name="Suite" finished-at="2022-01-31T11:12:10 IST" duration-ms="144752">
+    <groups>
+    </groups>
+    <test started-at="2022-01-31T11:09:46 IST" name="TestCase1" finished-at="2022-01-31T11:10:31 IST" duration-ms="45250">
+      <class name="uistore.DemoFormPO">
+        <test-method signature="TC1()[pri:0, instance:uistore.DemoFormPO@1b1cfb87]" started-at="2022-01-31T11:09:46 IST" name="TC1" finished-at="2022-01-31T11:10:28 IST" duration-ms="42476" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC1 -->
+        <test-method is-config="true" signature="close()[pri:0, instance:uistore.DemoFormPO@1b1cfb87]" started-at="2022-01-31T11:10:28 IST" name="close" finished-at="2022-01-31T11:10:31 IST" duration-ms="2673" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- uistore.DemoFormPO -->
+    </test> <!-- TestCase1 -->
+    <test started-at="2022-01-31T11:10:31 IST" name="TestCase2" finished-at="2022-01-31T11:10:54 IST" duration-ms="22267">
+      <class name="uistore.DropAndDragPO">
+        <test-method signature="TC2()[pri:0, instance:uistore.DropAndDragPO@f58853c]" started-at="2022-01-31T11:10:31 IST" name="TC2" finished-at="2022-01-31T11:10:53 IST" duration-ms="21538" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC2 -->
+        <test-method is-config="true" signature="close()[pri:0, instance:uistore.DropAndDragPO@f58853c]" started-at="2022-01-31T11:10:53 IST" name="close" finished-at="2022-01-31T11:10:54 IST" duration-ms="723" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- uistore.DropAndDragPO -->
+    </test> <!-- TestCase2 -->
+    <test started-at="2022-01-31T11:10:54 IST" name="TestCase3" finished-at="2022-01-31T11:12:10 IST" duration-ms="76628">
+      <class name="uistore.SimpleInputFormPO">
+        <test-method signature="TC3()[pri:0, instance:uistore.SimpleInputFormPO@13d73f29]" started-at="2022-01-31T11:10:54 IST" name="TC3" finished-at="2022-01-31T11:12:09 IST" duration-ms="75693" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC3 -->
+        <test-method is-config="true" signature="close()[pri:0, instance:uistore.SimpleInputFormPO@13d73f29]" started-at="2022-01-31T11:12:09 IST" name="close" finished-at="2022-01-31T11:12:10 IST" duration-ms="929" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- uistore.SimpleInputFormPO -->
+    </test> <!-- TestCase3 -->
+  </suite> <!-- Suite -->
+</testng-results>
